@@ -1,0 +1,27 @@
+.container .text{
+    background-color: #ffff00;
+    font-size: 20px;
+    color: #ff0000;
+    text-align: center;
+}
+
+div .text{
+    background-color: #ffff00;
+    font-size: 20px;
+    color: #ff0000;
+    text-align: center;
+}
+
+.container p{
+    background-color: #ffff00;
+    font-size: 20px;
+    color: #ff0000;
+    text-align: center;
+}
+
+div p {
+    background-color: #ffff00;
+    font-size: 20px;
+    color: #ff0000;
+    text-align: center;
+}
