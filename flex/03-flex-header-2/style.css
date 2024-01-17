@@ -14,7 +14,7 @@ body {
   box-shadow: 0 0 8px rgba(0,0,0,.1);
   display: flex;
   justify-content: space-between;
-  padding: 10px;
+  padding: 8px;
 }
 
 .profile-image {
@@ -47,10 +47,13 @@ a {
   color: rebeccapurple;
 }
 
+ul, .left-menu, .right-menu{
+  gap: 16px;
+}
+
 ul {
   list-style-type: none;
   display: flex;
-  gap: 15px;
   margin: 0;
   padding: 0;
 }
@@ -58,5 +61,4 @@ ul {
 .left-menu, .right-menu{
   display: flex;
   align-items: center;
-  gap: 15px
 }
